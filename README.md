@@ -92,3 +92,7 @@ Examples are inspired by official docs and real-world experimentation.
 [Go by Example: Context](https://gobyexample.com/context) — quick intro.
 
 [YouTube tutorials](https://youtu.be/LSzR0VEraWw?si=y_C6XEvmioYX2eWr) — clear and simple video explanations.
+
+## 📝 License
+
+This project is open-source and free to use for educational purposes.
